@@ -2,7 +2,7 @@
 Openhack Stockholm
 
 Team Name = Jobsnaut
-Jobbtech
+ Project=Jobbtech
 JobPathFinder
 MIT Licence
 Data Anaysis
